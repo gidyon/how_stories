@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926296751282",
+    "project_id": "howstories",
+    "storage_bucket": "howstories.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926296751282:android:b723aabe07f396d6195dab",
+        "android_client_info": {
+          "package_name": "com.gidyon.how_stories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926296751282-k25fskoga340g6do2drl6409obrcv07q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxxBsZMLdnE66CbiCqgqXAxLLkF8gZ5XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926296751282-k25fskoga340g6do2drl6409obrcv07q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
